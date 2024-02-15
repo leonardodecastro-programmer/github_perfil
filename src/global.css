@@ -11,6 +11,13 @@
   margin: 0 auto;
 }
 
+.searchInput {
+  margin: 15px 10px;
+  border-radius: 5px;
+  border: 2px solid;
+  padding: 5px;
+}
+
 :root {
   --corPrincipal: #f9ca24;
   --corSecundaria: #111;
